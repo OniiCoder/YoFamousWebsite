@@ -221,8 +221,8 @@
 
 	<section class="spotlight">
 		<div class="container-fluid">
-			<div style="text-align: center; margin-bottom: 40px;">
-				<img src="/img/logo-black.png" style="width: 200px" /> <span style="font-size: 32px;">Spotlight</span>
+			<div class="spotlightHeader" style="text-align: center; margin-bottom: 40px;">
+				<img src="/img/spotlight.png" style="width: 300px" />
 			</div>
 
 			<div class="row">
