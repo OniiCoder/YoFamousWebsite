@@ -1,0 +1,124 @@
+@font-face {
+	font-family: "TT Commons";
+	src: url("../fonts/TTCommons-Regular.ttf") format("ttf");
+}
+
+* {
+	margin: 0;
+}
+
+body {
+	font-family: 'TT Commons', Arial, sans-serif;
+}
+
+.heroSection {
+	height: 452px;
+	/*background: #191414;*/
+	background:linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/hero-bg3.jpg);
+	/*background:linear-gradient(0deg, rgba(30, 215, 98, 0.7), rgba(0, 0, 0, 0.9)), url(../img/hero-bg3.jpg);*/
+  	background-size:contain;
+}
+
+.heroText {
+	color: #fff;
+	font-size: 48px;
+	line-height: 65px;
+	font-weight: 600;
+}
+
+.logo {
+	width: 152px;
+}
+
+.horizontalRule {
+	color: #fff !important;
+}
+
+.heroSection .content {
+	margin-top: 100px;
+}
+
+.heroSection .content {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.subtext {
+	color: #fff;
+	font-size: 24px;
+	text-align: center;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar-toggler {
+  border-color: #fff;
+}
+
+.nav-link {
+	color: #fff;
+} 
+
+.nav-link:hover {
+	color: #fff;
+	opacity: 0.7;
+}
+
+.promoteNowText {
+	color: #191414;
+	font-size: 70px;
+	line-height: 65px;
+	font-weight: 600;
+	text-align: center;
+}
+
+.serviceCard {
+	/*width: 342px;*/
+	width: 100%;
+	height: 400px;
+	padding: 38px;
+	background-color: #F5F5F5;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.priceAvatar {
+	width: 200px;
+	height: 200px;
+	padding: 20px;
+	background-color: #1ED761;
+	border-radius: 50%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+	font-size: 24px;
+	line-height: 30px;
+}
+
+.serviceCard .title {
+	margin-top: 20px;
+	font-size: 33px;
+	font-weight: 600;
+	color: #191414;
+}
+
+.serviceCard .list {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
