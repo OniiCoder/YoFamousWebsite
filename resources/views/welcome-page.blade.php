@@ -103,7 +103,7 @@
 			<div class="promoteNowText">Promote Now</div>
 			<div class="space40"></div>
 			<div class="row">
-				<div class="col-md sCard" data-aos="fade-up" data-aos-duration="2000">
+				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
 					<div class="serviceCard">
 						<div class="priceAvatar">
 							<span>Starting from<br/><b>$5/1000</b> plays</span>
@@ -121,7 +121,7 @@
 					</div>
 					<div style="height: 20px;"></div>
 				</div>
-				<div class="col-md sCard" data-aos="fade-up" data-aos-duration="2000">
+				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
 					<div class="serviceCard">
 						<div class="priceAvatar">
 							<span>Starting from<br/><b>$5/1000</b> plays</span>
@@ -139,7 +139,7 @@
 					</div>
 					<div style="height: 20px;"></div>
 				</div>
-				<div class="col-md sCard" data-aos="fade-up" data-aos-duration="2000">
+				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
 					<div class="serviceCard">
 						<div class="priceAvatar">
 							<span>Starting from<br/><b>$5/1000</b> plays</span>
@@ -157,7 +157,7 @@
 					</div>
 					<div style="height: 20px;"></div>
 				</div>
-				<div class="col-md sCard" data-aos="fade-up" data-aos-duration="2000">
+				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
 					<div class="serviceCard">
 						<div class="priceAvatar">
 							<span>Starting from<br/><b>$5/1000</b> plays</span>
@@ -173,7 +173,74 @@
 							</div>
 						</div>
 					</div>
-					<div style="height: 20px;"></div>
+					<div style="height: 40px;"></div>
+				</div>
+				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
+					<div class="serviceCard">
+						<div class="priceAvatar">
+							<span>Starting from<br/><b>$5/1000</b> plays</span>
+						</div>
+						<div class="content">
+							<div class="title">
+								Tidal Plays
+							</div>
+							<div class="list">
+								Eligible For Royalties<br />
+								Promote Multiple Tracks<br />
+								Market-Geo Targeting
+							</div>
+						</div>
+					</div>
+					<div style="height: 40px;"></div>
+				</div>
+				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
+					<div class="moreServiceCard">
+						<div class="content">
+							<a href="#" class="more">
+								MORE PLATFORMS
+							</a>
+						</div>
+					</div>
+					<div style="height: 40px;"></div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="container">
+			<div class="row justify-content-center" data-aos="fade-up" data-aos-duration="3000">
+				<div class="col-md-6">
+					<p style="text-align: center; margin-top: 20px; font-size: 18px;">If you published your music on any digital music streaming platform but you aren’t getting the attention you want, we can help. We provide with campaigns to get followers, increase plays and improve your brand awareness. Our promotion services are being used by artists around the world. Buy real plays and boost your social media naturally with one of the most trusted promotion companies in the industry.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="spotlight">
+		<div class="container-fluid">
+			<div style="text-align: center; margin-bottom: 40px;">
+				<img src="/img/logo-black.png" style="width: 200px" /> <span style="font-size: 32px;">Sportlight</span>
+			</div>
+
+			<div class="row">
+				<div class="col-md-6 col-lg-4">
+					<div class="spotCard"></div>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<div class="spotCard"></div>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<div class="spotCard"></div>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<div class="spotCard"></div>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<div class="spotCard"></div>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<div class="spotCard"></div>
 				</div>
 			</div>
 		</div>
