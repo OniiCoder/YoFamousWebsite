@@ -21,6 +21,15 @@
 			src: url("fonts/TTCommons-Regular.ttf") format("ttf");
 		}
 
+		@font-face {
+		  font-family: 'TT Commons';
+		  src: url('TTCommons-Regular.eot'); /* IE9 Compat Modes */
+		  src: url('TTCommons-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		       url('TTCommons-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+		       url('TTCommons-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+		       url('TTCommons-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */ /* Legacy iOS */
+		}
+
 		body {
 			font-family: 'TT Commons', Arial, sans-serif;
 		}
