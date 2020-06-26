@@ -20,6 +20,10 @@
    .space40 {
    	height: 10px;
    }
+
+   .spotCard1 {
+   	min-height: 380px;
+   }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -28,6 +32,10 @@
   	font-size: 28px;
   	line-height: 32px;
   }
+
+  .spotCard1 {
+   	min-height: 380px;
+   }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -41,6 +49,10 @@
 		font-size: 50px;
 		line-height: 65px;
 	}
+
+	.spotCard1 {
+   	min-height: 790px;
+   }
 } 
 
 /* Large devices (laptops/desktops, 992px and up) */

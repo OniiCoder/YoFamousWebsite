@@ -234,26 +234,28 @@
 
 			<div class="row">
 				<div class="col-md-6 col-lg-4">
-					<div class="spotCard"></div>
+					<div class="spotCard1"></div>
 				</div>
-				<div class="col-md-6 col-lg-4">
-					<div class="spotCard"></div>
+				<div class="col-md-6 col-lg-8">
+					<div class="row">
+						<div class="col-md-6 col-lg-6">
+							<div class="spotCard green"></div>
+						</div>
+						<div class="col-md-6 col-lg-6">
+							<div class="spotCard grey"></div>
+						</div>
+						<div class="col-md-12 col-lg-12">
+							<div class="spotCard"></div>
+						</div>
+					</div>
 				</div>
-				<div class="col-md-6 col-lg-4">
-					<div class="spotCard"></div>
-				</div>
-				<div class="col-md-6 col-lg-4">
-					<div class="spotCard"></div>
-				</div>
-				<div class="col-md-6 col-lg-4">
-					<div class="spotCard"></div>
-				</div>
-				<div class="col-md-6 col-lg-4">
-					<div class="spotCard"></div>
-				</div>
+				
 			</div>
 		</div>
 	</section>
+
+
+
 
 	<div style="height: 400px;"></div>
 

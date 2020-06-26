@@ -156,9 +156,18 @@ body {
 }
 
 .spotCard {
-	min-height: 467px;
+	min-height: 380px;
 	background-color: #1E3264;
 	margin-bottom: 30px;
+}
+
+.spotCard1 {
+	min-height: 790px;
+	background-color: #1E3264;
+	margin-bottom: 30px;
+	background: linear-gradient(0deg, rgba(193, 195, 198, 0.5), rgba(193, 195, 198, 0.5)), url(../img/artists/kell.jpg);
+  	background-size: cover;
+  	background-position: center;
 }
 
 .moreServiceCard {
@@ -183,6 +192,14 @@ body {
 .more:hover {
 	opacity: 0.8;
 	color: #fff;
+}
+
+.green {
+	background-color: #19E68D;
+}
+
+.grey {
+	background-color: #C1C3C6;
 }
 
 
