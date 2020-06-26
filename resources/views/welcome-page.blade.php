@@ -12,6 +12,8 @@
 
 	<!-- <script type="text/javascript" src="{{ asset('/assets/js/bootstrap.min.js') }}"></script> -->
 
+	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
@@ -78,7 +80,7 @@
 
 	<section class="heroSection">
 		<div class="container">
-			<div class="content">
+			<div class="content" data-aos="fade-up" data-aos-duration="2000">
 				<span class="heroText">Royal Music Promotion on</span>
 				<h1 class="ml4 white">
 				  <span class="letters letters-1">Spotify</span>
@@ -90,6 +92,7 @@
 					<span class="subtext">Created By Musicians For Musicians</span>
 				</div>
 			</div>
+
 		</div>
 		
 	</section>
@@ -100,7 +103,7 @@
 			<div class="promoteNowText">Promote Now</div>
 			<div class="space40"></div>
 			<div class="row">
-				<div class="col-md sCard">
+				<div class="col-md sCard" data-aos="fade-up" data-aos-duration="2000">
 					<div class="serviceCard">
 						<div class="priceAvatar">
 							<span>Starting from<br/><b>$5/1000</b> plays</span>
@@ -118,7 +121,7 @@
 					</div>
 					<div style="height: 20px;"></div>
 				</div>
-				<div class="col-md sCard">
+				<div class="col-md sCard" data-aos="fade-up" data-aos-duration="2000">
 					<div class="serviceCard">
 						<div class="priceAvatar">
 							<span>Starting from<br/><b>$5/1000</b> plays</span>
@@ -136,7 +139,7 @@
 					</div>
 					<div style="height: 20px;"></div>
 				</div>
-				<div class="col-md sCard">
+				<div class="col-md sCard" data-aos="fade-up" data-aos-duration="2000">
 					<div class="serviceCard">
 						<div class="priceAvatar">
 							<span>Starting from<br/><b>$5/1000</b> plays</span>
@@ -154,7 +157,7 @@
 					</div>
 					<div style="height: 20px;"></div>
 				</div>
-				<div class="col-md sCard">
+				<div class="col-md sCard" data-aos="fade-up" data-aos-duration="2000">
 					<div class="serviceCard">
 						<div class="priceAvatar">
 							<span>Starting from<br/><b>$5/1000</b> plays</span>
@@ -180,10 +183,12 @@
 
 </div>
 
-	
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 
-<script type="text/javascript">
+<script>
+	AOS.init();
+
 	var ml4 = {};
 	ml4.opacityIn = [0,1];
 	ml4.scaleIn = [0.2, 1];
