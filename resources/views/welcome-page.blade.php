@@ -16,18 +16,18 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
 	<style type="text/css">
-		@font-face {
+		/*@font-face {
 			font-family: "TT Commons";
 			src: url("fonts/TTCommons-Regular.ttf") format("ttf");
-		}
+		}*/
 
 		@font-face {
 		  font-family: 'TT Commons';
-		  src: url('TTCommons-Regular.eot'); /* IE9 Compat Modes */
-		  src: url('TTCommons-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-		       url('TTCommons-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-		       url('TTCommons-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-		       url('TTCommons-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */ /* Legacy iOS */
+		  src: url('fonts/TTCommons-Regular.eot'); /* IE9 Compat Modes */
+		  src: url('fonts/TTCommons-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		       url('fonts/TTCommons-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+		       url('fonts/TTCommons-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+		       url('fonts/TTCommons-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */ /* Legacy iOS */
 		}
 
 		body {
