@@ -229,7 +229,7 @@
 	<section class="spotlight">
 		<div class="container-fluid">
 			<div class="spotlightHeader" style="text-align: center; margin-bottom: 40px;">
-				<img src="/img/spotlight.png" style="width: 300px" />
+				<img src="/img/spotlight.png" style="width: 240px" />
 			</div>
 
 			<div class="row">
