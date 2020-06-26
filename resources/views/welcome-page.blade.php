@@ -2,6 +2,13 @@
 <html>
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="author" content="OniiCode">
+	<meta name="keywords" content="spotify plays, apple music plays, buy plays, buy streams, promote music, promote song, enter playlists, submit to playlist, buy spotify plays and streams, tidal, audiomack plays, soundcloud plays,">
+	<meta property="og:locale" content="en-US">
+	<meta property="og:type" content="website">
+	<meta name="description" content="Buy legit Spotify & Apple Music plays/streams. Boost your music streams and make money.">
+	<meta name="og:description" content="Buy legit Spotify & Apple Music plays/streams. Boost your music streams and make money.">
+
 	<title>YoFamous</title>
 	<!-- <link rel="stylesheet" type="text/css" href="{{ asset('/assets/css/bootstrap.min.css') }}">
 	 -->
