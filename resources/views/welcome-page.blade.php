@@ -18,7 +18,7 @@
 	<style type="text/css">
 		@font-face {
 			font-family: "TT Commons";
-			src: url("/fonts/TTCommons-Regular.ttf") format("ttf");
+			src: url("fonts/TTCommons-Regular.ttf") format("ttf");
 		}
 
 		body {
