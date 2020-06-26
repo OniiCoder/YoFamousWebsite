@@ -86,6 +86,8 @@
 				  <span class="letters letters-1">Spotify</span>
 				  <span class="letters letters-2">Apple Music</span>
 				  <span class="letters letters-3">Audiomack</span>
+				  <span class="letters letters-4">SoundCloud</span>
+				  <span class="letters letters-5">Tidal</span>
 				</h1>
 				<div style="height: 50px;"></div>
 				<div class="sub">
@@ -220,7 +222,7 @@
 	<section class="spotlight">
 		<div class="container-fluid">
 			<div style="text-align: center; margin-bottom: 40px;">
-				<img src="/img/logo-black.png" style="width: 200px" /> <span style="font-size: 32px;">Sportlight</span>
+				<img src="/img/logo-black.png" style="width: 200px" /> <span style="font-size: 32px;">Spotlight</span>
 			</div>
 
 			<div class="row">
@@ -296,6 +298,30 @@
 	    duration: ml4.durationIn
 	  }).add({
 	    targets: '.ml4 .letters-3',
+	    opacity: 0,
+	    scale: ml4.scaleOut,
+	    duration: ml4.durationOut,
+	    easing: "easeInExpo",
+	    delay: ml4.delay
+	  }).add({
+	    targets: '.ml4 .letters-4',
+	    opacity: ml4.opacityIn,
+	    scale: ml4.scaleIn,
+	    duration: ml4.durationIn
+	  }).add({
+	    targets: '.ml4 .letters-4',
+	    opacity: 0,
+	    scale: ml4.scaleOut,
+	    duration: ml4.durationOut,
+	    easing: "easeInExpo",
+	    delay: ml4.delay
+	  }).add({
+	    targets: '.ml4 .letters-5',
+	    opacity: ml4.opacityIn,
+	    scale: ml4.scaleIn,
+	    duration: ml4.durationIn
+	  }).add({
+	    targets: '.ml4 .letters-5',
 	    opacity: 0,
 	    scale: ml4.scaleOut,
 	    duration: ml4.durationOut,
