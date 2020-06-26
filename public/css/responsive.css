@@ -8,6 +8,18 @@
   .promoteNowText {
   	font-size: 32px;
   }
+
+  .subtext {
+	font-size: 18px;
+   }
+
+   .heroSection {
+   	height: 200px;
+   }
+
+   .space40 {
+   	height: 10px;
+   }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */

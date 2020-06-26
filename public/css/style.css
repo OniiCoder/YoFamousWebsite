@@ -80,8 +80,8 @@ body {
 
 .serviceCard {
 	/*width: 342px;*/
-	width: 100%;
-	height: 400px;
+	min-width: 100%;
+	min-height: 400px;
 	padding: 38px;
 	background-color: #F5F5F5;
 	display: flex;
@@ -90,8 +90,8 @@ body {
 }
 
 .priceAvatar {
-	width: 200px;
-	height: 200px;
+	min-width: 200px;
+	min-height: 200px;
 	padding: 20px;
 	background-color: #1ED761;
 	border-radius: 50%;
@@ -115,7 +115,9 @@ body {
 	text-align: center;
 }
 
-
+.space40 {
+	height: 40px;
+}
 
 
 

@@ -91,9 +91,9 @@
 
 	<section class="promoteNow">
 		<div class="container">
-			<div style="height: 40px;"></div>
-			<div class="promoteNowText">PromoteNow</div>
-			<div style="height: 40px;"></div>
+			<div class="space40"></div>
+			<div class="promoteNowText">Promote Now</div>
+			<div class="space40"></div>
 			<div class="row">
 				<div class="col-md sCard">
 					<div class="serviceCard">
