@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>YoFamous</title>
 	<!-- <link rel="stylesheet" type="text/css" href="{{ asset('/assets/css/bootstrap.min.css') }}">
 	 -->
@@ -16,43 +17,46 @@
 
 </head>
 <body>
+	<div>
+		<div class="sticky-top" style="background-color: #191414;">
+			<div class="container">
+				<nav class="navbar navbar-expand-lg">
+					<a class="navbar-brand" href="#">
+						<img src="/img/logo-smaller.png" class="logo">
+					</a>
+
+				  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation" style="color: red !important;">
+				    <span class="navbar-toggler-icon"></span>
+				  </button>
+
+				  <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+				    <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+				      <li class="nav-item">
+				        <a class="nav-link" href="#">Home</a>
+				      </li>
+				      <li class="nav-item">
+				        <a class="nav-link" href="#">Fanlink</a>
+				      </li>
+				      <li class="nav-item">
+				        <a class="nav-link" href="#">Artiste Page</a>
+				      </li>
+				      <li class="nav-item">
+				        <a class="nav-link" href="#">Social Media Shop</a>
+				      </li>
+				      <li class="nav-item">
+				        <a class="nav-link" href="#">Register</a>
+				      </li>
+				      <li class="nav-item">
+				        <a class="nav-link" href="#">Login</a>
+				      </li>
+				    </ul>
+				  </div>
+				</nav>
+			</div>
+		</div>
 
 	<section class="heroSection">
 		<div class="container">
-			<nav class="navbar navbar-expand-lg">
-				<a class="navbar-brand" href="#">
-					<img src="/img/logo-smaller.png" class="logo">
-				</a>
-
-			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation" style="color: red !important;">
-			    <span class="navbar-toggler-icon"></span>
-			  </button>
-
-			  <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-			    <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
-			      <li class="nav-item">
-			        <a class="nav-link" href="#">Home</a>
-			      </li>
-			      <li class="nav-item">
-			        <a class="nav-link" href="#">Fanlink</a>
-			      </li>
-			      <li class="nav-item">
-			        <a class="nav-link" href="#">Artiste Page</a>
-			      </li>
-			      <li class="nav-item">
-			        <a class="nav-link" href="#">Social Media Shop</a>
-			      </li>
-			      <li class="nav-item">
-			        <a class="nav-link" href="#">Register</a>
-			      </li>
-			      <li class="nav-item">
-			        <a class="nav-link" href="#">Login</a>
-			      </li>
-			    </ul>
-			  </div>
-			</nav>
-
-
 			<div class="content">
 				<span class="heroText">Royal Music Promotion on<br/>Spotify | Apple Music | Audiomack | SoundCloud</span>
 				<div style="height: 22px;"></div>
@@ -147,6 +151,8 @@
 	</section>
 
 	<div style="height: 400px;"></div>
+
+</div>
 
 	
 
