@@ -254,10 +254,57 @@
 		</div>
 	</section>
 
+	<section class="footer">
+		<div style="height: 40px;"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-lg-3 footer-margin"><img src="/img/logo-only.png" class="logo"></div>
+				<div class="col-md-3 col-lg-2 footer-margin">
+					<span class="footerHeaders">COMPANY</span>
+					<nav>
+						<a href="#">About</a>
+						<a href="#">Press</a>
+						<a href="#">Blog</a>
+					</nav>
+				</div>
+				<div class="col-md-3 col-lg-2 footer-margin">
+					<span class="footerHeaders">POTLIGHT</span>
+					<nav>
+						<a href="#">Artist Spotlight</a>
+						<a href="#">Artist Promotion</a>
+						<a href="#">Playlist Placement</a>
+					</nav>
+				</div>
+				<div class="col-md-3 col-lg-2 footer-margin">
+					<span class="footerHeaders">SEFUL LINKS</span>
+					<nav>
+						<a href="#">Music Streams</a>
+						<a href="#">Social Media Shop</a>
+						<a href="#">Artist Page/Song Link</a>
+					</nav>
+				</div>
+				<div class="col-md-3 col-lg-2 footer-margin">
+					<a href="#"><img src="/assets/instagram.png" style="width: 50px;" /></a>&nbsp;
+					<a href="#"><img src="/assets/twitter.png" style="width: 50px;" /></a>&nbsp;
+					<a href="#"><img src="/assets/facebook.png" style="width: 50px;" /></a>
+				</div>
+			</div>
+			<div style="height: 50px;"></div>
+			<div class="row bottomFooter">
+				<div class="col-md-3"></div>
+				<div class="col-md-5">
+						<a href="#">Privacy Policy</a>&nbsp;&nbsp;&nbsp;
+						<a href="#">Terms & Condition</a>
+				</div>
+				<div class="col-md-4" style="text-align: right;">
+					<span>&copy; 2020 YoFamous HQ</span>
+				</div>
+			</div>
+		</div>
+	</section>
 
 
-
-	<div style="height: 400px;"></div>
+	<!-- <div style="height: 400px;"></div> -->
 
 </div>
 
