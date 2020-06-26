@@ -9,14 +9,14 @@
 
 body {
 	/*font-family: 'TT Commons', Arial, sans-serif;*/
-	overflow-x: hidden;
+	overflow-x: hidden !important;
 }
 
 .heroSection {
 	height: 370px;
 	/*background: #191414;*/
-	background:linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/hero-bg3.jpg);
-	/*background:linear-gradient(0deg, rgba(30, 215, 98, 0.7), rgba(0, 0, 0, 0.9)), url(../img/hero-bg3.jpg);*/
+	/*background:linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/hero-bg3.jpg);*/
+	background:linear-gradient(0deg, rgba(30, 215, 98, 0.7), rgba(0, 0, 0, 0.9)), url(../img/hero-bg3.jpg);
   	background-size:contain;
 }
 
