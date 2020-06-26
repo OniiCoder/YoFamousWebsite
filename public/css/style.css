@@ -1,15 +1,15 @@
-@font-face {
+/*@font-face {
 	font-family: "TT Commons";
 	src: url("../fonts/TTCommons-Regular.ttf") format("ttf");
-}
+}*/
 
 * {
 	margin: 0;
 }
-
+/*
 body {
 	font-family: 'TT Commons', Arial, sans-serif;
-}
+}*/
 
 .heroSection {
 	height: 370px;
