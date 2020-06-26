@@ -21,7 +21,7 @@
 		<div class="container">
 			<nav class="navbar navbar-expand-lg">
 				<a class="navbar-brand" href="#">
-					<img src="{{ asset('/img/logo-smaller.png') }}" class="logo">
+					<img src="/img/logo-smaller.png" class="logo">
 				</a>
 
 			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation" style="color: red !important;">
