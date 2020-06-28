@@ -88,7 +88,7 @@
 				  <span class="letters letters-4">SoundCloud</span>
 				  <span class="letters letters-5">Tidal</span>
 				</h1>
-				<div style="height: 50px;"></div>
+				<div style="height: 70px;"></div>
 				<div class="sub">
 					<span class="subtext">Created By Musicians For Musicians</span>
 				</div>
@@ -219,7 +219,7 @@
 	</section>
 
 	<section class="spotlight">
-		<div class="container-fluid">
+		<div class="container">
 			<div class="spotlightHeader" style="text-align: center; margin-bottom: 40px;">
 				<img src="/img/spotlight.png" style="width: 240px" />
 			</div>
@@ -242,6 +242,25 @@
 					</div>
 				</div>
 				
+			</div>
+
+			<div class="row" style="margin-top: 40px;">
+				<div class="col-md-6" style="margin-bottom: 40px;">
+					<div class="heading1">Royalty</div>
+					<div class="heading2">All plays are eligible for royalties</div>
+					<div class="hbody">
+						We promote your songs to boost your streams on digital platforms like Spotify and Apple Music who pay royalties to the artiste label or music distributor. All the streams we pull to your songs will earn you money.
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="heading1">Spotlight</div>
+					<div class="heading2">Get featured on our Artiste Spotlight</div>
+					<div class="hbody">
+						Get a slot on our artiste spotlight. Get featured on our blog, social media accounts and special offers to make your music stand out including our playlists and street hype.
+					</div>
+					<!-- <button class="apply">APPLY NOW</button> -->
+					<button type="button" class="btn btn-success apply">APPLY NOW</button>
+				</div>
 			</div>
 		</div>
 	</section>

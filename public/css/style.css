@@ -24,9 +24,9 @@ body {
 
 .heroSection {
 	height: 370px;
-	/*background: #191414;*/
+	background: #191414;
 	/*background:linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/hero-bg3.jpg);*/
-	background: linear-gradient(0deg, rgba(30, 215, 98, 0.7), rgba(0, 0, 0, 0.9)), url(../img/banner.jpg);
+	/*background: linear-gradient(0deg, rgba(30, 215, 98, 0.7), rgba(0, 0, 0, 0.9)), url(../img/banner.jpg);*/
   	background-size: cover;
   	background-position: center;
   	overflow-x: hidden !important;
@@ -245,6 +245,48 @@ body {
 	display: inline-block;
 	color: #919496;
 }
+
+.heading1 {
+	font-size: 30px;
+	color: #1ED761;
+}
+
+.heading2 {
+	font-size: 48px;
+	color: #191414;
+	font-weight: 600;
+	line-height: 65px;
+}
+
+.hbody {
+	font-size: 18px;
+	color: #191414;
+}
+
+.apply {
+	color: #fff;
+	background-color: #1DBA54;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 40px;
+	border-radius: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*live orders notification*/
 .custom-social-proof {
