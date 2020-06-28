@@ -19,6 +19,7 @@ body {
 	background: linear-gradient(0deg, rgba(30, 215, 98, 0.7), rgba(0, 0, 0, 0.9)), url(../img/banner.jpg);
   	background-size: cover;
   	background-position: center;
+  	overflow-x: hidden !important;
 }
 
 .heroText {
