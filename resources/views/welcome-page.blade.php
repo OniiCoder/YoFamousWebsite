@@ -25,6 +25,8 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
+	<link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+
 	<!-- Smartsupp Live Chat script -->
 	<script type="text/javascript">
 	var _smartsupp = _smartsupp || {};
@@ -212,7 +214,7 @@
 		<div class="container">
 			<div class="row justify-content-center" data-aos="fade-up" data-aos-duration="3000">
 				<div class="col-md-6">
-					<p style="text-align: center; margin-top: 20px; font-size: 18px;">If you published your music on any digital music streaming platform but you aren’t getting the attention you want, we can help. We provide with campaigns to get followers, increase plays and improve your brand awareness. Our promotion services are being used by artists around the world. Buy real plays and boost your social media naturally with one of the most trusted promotion companies in the industry.</p>
+					<p style="text-align: center; margin-top: 20px; font-size: 17px; font-family: 'Inter', sans-serif;">If you published your music on any digital music streaming platform but you aren’t getting the attention you want, we can help. We provide with campaigns to get followers, increase plays and improve your brand awareness. Our promotion services are being used by artists around the world. Buy real plays and boost your social media naturally with one of the most trusted promotion companies in the industry.</p>
 				</div>
 			</div>
 		</div>
@@ -334,6 +336,8 @@
 			</div>
 		</div>
 	</section>
+
+
 
 
 	<!-- <div style="height: 400px;"></div> -->
