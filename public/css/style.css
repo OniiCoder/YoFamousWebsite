@@ -246,16 +246,12 @@ body {
 	color: #919496;
 }
 
-
-
-
-
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600");
+/*live orders notification*/
 .custom-social-proof {
   position: fixed;
   bottom: 20px;
   left: 20px;
-  z-index: 9999999999999 !important;
+  z-index: 2;
 }
 .custom-social-proof .custom-notification {
   max-width: 230px;
@@ -347,6 +343,9 @@ body {
 
 
 
+#chat-application {
+	z-index: 9999999999999 !important;
+}
 
 
 
