@@ -230,7 +230,8 @@
 				<div class="col-md-6 col-lg-4">
 					<div class="spotCard1">
 						<div style="position: absolute; bottom: 40px;">
-							KELL is very versatile in his music and has a very unique way of expressing himself either through his alter ego’s or himself.
+							...
+							<!-- KELL is very versatile in his music and has a very unique way of expressing himself either through his alter ego’s or himself. -->
 						</div>
 					</div>
 				</div>
@@ -253,14 +254,18 @@
 			<div class="row" style="margin-top: 40px;">
 				<div class="col-md-6" style="margin-bottom: 40px;">
 					<div class="heading1">Royalty</div>
+					<div class="space10"></div>
 					<div class="heading2">All plays are eligible for royalties</div>
+					<div class="space10"></div>
 					<div class="hbody">
 						We promote your songs to boost your streams on digital platforms like Spotify and Apple Music who pay royalties to the artiste label or music distributor. All the streams we pull to your songs will earn you money.
 					</div>
 				</div>
 				<div class="col-md-6">
 					<div class="heading1">Spotlight</div>
+					<div class="space10"></div>
 					<div class="heading2">Get featured on our Artiste Spotlight</div>
+					<div class="space10"></div>
 					<div class="hbody">
 						Get a slot on our artiste spotlight. Get featured on our blog, social media accounts and special offers to make your music stand out including our playlists and street hype.
 					</div>
