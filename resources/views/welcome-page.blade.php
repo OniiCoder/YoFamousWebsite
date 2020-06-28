@@ -89,13 +89,13 @@
 		<div class="container">
 			<div class="content" data-aos="fade-up" data-aos-duration="2000">
 				<span class="heroText">Royal Music Promotion on</span>
-				<h1 class="ml4 white">
+				<!-- <h1 class="ml4 white">
 				  <span class="letters letters-1">Spotify</span>
 				  <span class="letters letters-2">Apple Music</span>
 				  <span class="letters letters-3">Audiomack</span>
 				  <span class="letters letters-4">SoundCloud</span>
 				  <span class="letters letters-5">Tidal</span>
-				</h1>
+				</h1> -->
 				<div style="height: 50px;"></div>
 				<div class="sub">
 					<span class="subtext">Created By Musicians For Musicians</span>
