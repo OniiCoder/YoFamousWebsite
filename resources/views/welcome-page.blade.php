@@ -25,25 +25,17 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-	<style type="text/css">
-		/*@font-face {
-			font-family: "TT Commons";
-			src: url("fonts/TTCommons-Regular.ttf") format("ttf");
-		}*/
-
-		@font-face {
-		  font-family: 'TT Commons';
-		  src: url('fonts/TTCommons-Regular.eot'); /* IE9 Compat Modes */
-		  src: url('fonts/TTCommons-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-		       url('fonts/TTCommons-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-		       url('fonts/TTCommons-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-		       url('fonts/TTCommons-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */ /* Legacy iOS */
-		}
-
-		body {
-			font-family: 'TT Commons', Arial, sans-serif;
-		}
-	</style>
+	<!-- Smartsupp Live Chat script -->
+	<script type="text/javascript">
+	var _smartsupp = _smartsupp || {};
+	_smartsupp.key = '8b3c48e56abf84e73db2055ff8cf57e87d350389';
+	window.smartsupp||(function(d) {
+	        var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+	        s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+	        c.type='text/javascript';c.charset='utf-8';c.async=true;
+	        c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+	})(document);
+	</script>
 
 </head>
 <body>

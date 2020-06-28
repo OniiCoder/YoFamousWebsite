@@ -3,14 +3,24 @@
 	src: url("../fonts/TTCommons-Regular.ttf") format("ttf");
 }*/
 
+@font-face {
+  font-family: 'TT Commons';
+  src: url('fonts/TTCommons-Regular.eot'); /* IE9 Compat Modes */
+  src: url('fonts/TTCommons-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/TTCommons-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/TTCommons-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fonts/TTCommons-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */ /* Legacy iOS */
+}
+
+body {
+	font-family: 'TT Commons', Arial, sans-serif;
+	overflow-x: hidden !important;
+}
+
 * {
 	margin: 0;
 }
 
-body {
-	/*font-family: 'TT Commons', Arial, sans-serif;*/
-	overflow-x: hidden !important;
-}
 
 .heroSection {
 	height: 370px;
