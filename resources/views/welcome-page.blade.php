@@ -226,7 +226,11 @@
 
 			<div class="row">
 				<div class="col-md-6 col-lg-4">
-					<div class="spotCard1"></div>
+					<div class="spotCard1">
+						<div style="position: absolute; bottom: 40px;">
+							KELL is very versatile in his music and has a very unique way of expressing himself either through his alter ego’s or himself.
+						</div>
+					</div>
 				</div>
 				<div class="col-md-6 col-lg-8">
 					<div class="row">
