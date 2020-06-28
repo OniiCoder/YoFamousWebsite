@@ -248,7 +248,7 @@ body {
   z-index: 9999999999999 !important;
 }
 .custom-social-proof .custom-notification {
-  width: 320px;
+  max-width: 230px;
   border: 0;
   text-align: left;
   z-index: 99999;
