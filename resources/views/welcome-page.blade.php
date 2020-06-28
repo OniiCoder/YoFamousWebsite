@@ -40,7 +40,7 @@
 </head>
 <body>
 	<div>
-		<div class="sticky-top" style="background-color: #191414;">
+		<div class="sticky-top" style="background-color: #1E3264;">
 			<div class="container">
 				<nav class="navbar navbar-expand-lg">
 					<a class="navbar-brand" href="#">
