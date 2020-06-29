@@ -55,9 +55,7 @@
 
 				  <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
 				    <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
-				      <li class="nav-item">
-				        <a class="nav-link" href="#">Home</a>
-				      </li>
+				      
 				      <li class="nav-item">
 				        <a class="nav-link" href="#">Fanlink</a>
 				      </li>
@@ -66,9 +64,6 @@
 				      </li>
 				      <li class="nav-item">
 				        <a class="nav-link" href="#">Social Media Shop</a>
-				      </li>
-				      <li class="nav-item">
-				        <a class="nav-link" href="#">Register</a>
 				      </li>
 				      <li class="nav-item">
 				        <a class="nav-link" href="#">Login</a>
@@ -94,6 +89,7 @@
 				<div class="sub">
 					<span class="subtext">Created By Musicians For Musicians</span>
 				</div>
+				<button type="button" class="btn btn-success apply">Register</button>
 			</div>
 
 		</div>
