@@ -77,7 +77,7 @@
 	<section class="heroSection">
 		<div class="container">
 			<div class="content" data-aos="fade-up" data-aos-duration="2000">
-				<span class="heroText">Royal Music Promotion on</span>
+				<span class="heroText">Royal Artiste and Music Promotions on</span>
 				<h1 class="ml4 white">
 				  <span class="letters letters-1">Spotify</span>
 				  <span class="letters letters-2">Apple Music</span>
