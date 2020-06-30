@@ -3,14 +3,27 @@
 	src: url("../fonts/TTCommons-Regular.ttf") format("ttf");
 }*/
 
-@font-face {
-  font-family: 'TT Commons';
-  src: url('fonts/TTCommons-Regular.eot'); /* IE9 Compat Modes */
-  src: url('fonts/TTCommons-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('fonts/TTCommons-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('fonts/TTCommons-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-       url('fonts/TTCommons-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */ /* Legacy iOS */
+/*@font-face {*/
+  /*font-family: 'TT Commons';*/
+  /*src: url('fonts/TTCommons-Regular.eot'); /* IE9 Compat Modes */
+  /*src: url('fonts/TTCommons-Regular.eot?#iefix') format('embedded-opentype'), */
+  /* IE6-IE8 */
+       /*url('fonts/TTCommons-Regular.woff2') format('woff2'), */
+       /* Super Modern Browsers */
+       /*url('fonts/TTCommons-Regular.woff') format('woff'), */
+       /* Pretty Modern Browsers */
+       /*url('fonts/TTCommons-Regular.ttf')  format('truetype'), */
+       /* Safari, Android, iOS */ /* Legacy iOS */
 }
+
+@font-face {
+	font-family: "TT Commons"; 
+	src: url("//db.onlinewebfonts.com/t/641c9e475af26c0f996b4b3b11a1c2b2.eot"); 
+	src: url("//db.onlinewebfonts.com/t/641c9e475af26c0f996b4b3b11a1c2b2.eot?#iefix") format("embedded-opentype"), 
+	url("//db.onlinewebfonts.com/t/641c9e475af26c0f996b4b3b11a1c2b2.woff2") format("woff2"), 
+	url("//db.onlinewebfonts.com/t/641c9e475af26c0f996b4b3b11a1c2b2.woff") format("woff"), 
+	url("//db.onlinewebfonts.com/t/641c9e475af26c0f996b4b3b11a1c2b2.ttf") format("truetype"), 
+	url("//db.onlinewebfonts.com/t/641c9e475af26c0f996b4b3b11a1c2b2.svg#TT Commons W01") format("svg"); }
 
 body {
 	font-family: 'TT Commons', Arial, sans-serif;
