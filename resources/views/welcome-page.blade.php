@@ -6,8 +6,8 @@
 	<meta name="keywords" content="spotify plays, apple music plays, buy plays, buy streams, promote music, promote song, enter playlists, submit to playlist, buy spotify plays and streams, tidal, audiomack plays, soundcloud plays,">
 	<meta property="og:locale" content="en-US">
 	<meta property="og:type" content="website">
-	<meta name="description" content="Promote and boost your Spotify & Apple Music plays/streams and make money.">
-	<meta name="og:description" content="Promote and boost your Spotify & Apple Music plays/streams and make money.">
+	<meta name="description" content="Social Media and Music Promotions, boost your Spotify & Apple Music plays and earn royalties, Top Charts.">
+	<meta name="og:description" content="Social Media and Music Promotions, boost your Spotify & Apple Music plays and earn royalties, Top Charts.">
 
 	<title>YoFamous</title>
 	<!-- <link rel="stylesheet" type="text/css" href="{{ asset('/assets/css/bootstrap.min.css') }}">
