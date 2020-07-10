@@ -197,7 +197,9 @@ body {
 	min-height: 380px;
 	background-color: #1E3264;
 	margin-bottom: 30px;
+	padding: 25px;
 }
+
 
 .spotCard1 {
 	min-height: 790px;
@@ -206,8 +208,35 @@ body {
 	background: linear-gradient(0deg, rgba(193, 195, 198, 0.5), rgba(193, 195, 198, 0.5)), url(../img/artists/kell.jpg);
   	background-size: cover;
   	background-position: center;
-  	padding-left: 25px;
-  	padding-right: 50px;
+  	padding: 25px;
+}
+
+.spotCard4 {
+	min-height: 380px;
+	background-color: #1E3264;
+	margin-bottom: 30px;
+	padding: 25px;
+}
+
+.artistRole {
+	color: #fff;
+	font-size: 18px;
+	line-height: 24px;
+	font-weight: 400;
+	font-style: italic;
+}
+
+.artistName {
+	color: #fff;
+}
+
+.bottomText {
+	position: absolute; 
+	bottom: 40px; 
+	padding-right: 25px; 
+	font-size: 28px; 
+	color: #fff; 
+	font-weight: 600;
 }
 
 .moreServiceCard {

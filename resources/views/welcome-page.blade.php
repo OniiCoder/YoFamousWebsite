@@ -9,6 +9,24 @@
 	<meta name="description" content="Social Media and Music Promotions, boost your Spotify & Apple Music plays and earn royalties, Top Charts.">
 	<meta name="og:description" content="Social Media and Music Promotions, boost your Spotify & Apple Music plays and earn royalties, Top Charts.">
 
+	<link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+	<link rel="manifest" href="/favicon/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
 	<title>YoFamous</title>
 	<!-- <link rel="stylesheet" type="text/css" href="{{ asset('/assets/css/bootstrap.min.css') }}">
 	 -->
@@ -57,16 +75,16 @@
 				    <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
 				      
 				      <li class="nav-item">
-				        <a class="nav-link" href="#">Fanlink</a>
-				      </li>
-				      <li class="nav-item">
 				        <a class="nav-link" href="#">Artiste Page</a>
 				      </li>
 				      <li class="nav-item">
-				        <a class="nav-link" href="#">Social Media Shop</a>
+				        <a class="nav-link" href="#">Our Services</a>
 				      </li>
 				      <li class="nav-item">
-				        <a class="nav-link" href="#">Login</a>
+				        <a class="nav-link" href="#">Contact</a>
+				      </li>
+				      <li class="nav-item">
+				        <a class="nav-link" style="border-left: 2px solid #fff; padding-left: 7px; height: 30px;" href="#"> Login</a>
 				      </li>
 				    </ul>
 				  </div>
@@ -89,7 +107,7 @@
 				<div class="sub">
 					<span class="subtext">Created By Musicians For Musicians</span>
 				</div>
-				<button type="button" class="btn btn-success apply">Register</button>
+				<!-- <button type="button" class="btn btn-success apply">Register</button> -->
 			</div>
 
 		</div>
@@ -225,22 +243,41 @@
 			<div class="row">
 				<div class="col-md-6 col-lg-4">
 					<div class="spotCard1">
-						<div style="position: absolute; bottom: 40px;">
-							...
-							<!-- KELL is very versatile in his music and has a very unique way of expressing himself either through his alter ego’s or himself. -->
+						<span class="artistName">KELL</span> <br />
+						<span class="artistRole">Singer / Songwriter / Rapper</span>
+						<div class="bottomText">
+							KELL is very versatile in his music and has a very unique way of expressing himself either through his alter ego’s or himself.
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-8">
 					<div class="row">
 						<div class="col-md-6 col-lg-6">
-							<div class="spotCard green"></div>
+							<div class="spotCard green">
+								<span class="artistName">REEFER TYM</span> <br />
+								<span class="artistRole">Musician / Producer</span><br />
+								<div class="bottomText">
+									Afropop Artiste with a blend of DanceHall, and ambassador of Mawako.
+								</div>
+							</div>
 						</div>
 						<div class="col-md-6 col-lg-6">
-							<div class="spotCard grey"></div>
+							<div class="spotCard grey">
+								<span class="artistName">ONIISHA</span> <br />
+								<span class="artistRole">Musician / Songwriter</span><br />
+								<div class="bottomText">
+									Afro-fusion artiste with a smooth blend with Alternative Music.
+								</div>
+							</div>
 						</div>
 						<div class="col-md-12 col-lg-12">
-							<div class="spotCard"></div>
+							<div class="spotCard4">
+								<span class="artistName">SPOTLIGHT</span> <br />
+								<!-- <span class="artistRole">Musician / Songwriter</span><br /> -->
+								<div class="bottomText">
+									Fashion Model & Songwriter: Tekeboy hails from UK.
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -319,9 +356,11 @@
 					</nav>
 				</div>
 				<div class="col-md-3 col-lg-2 footer-margin">
-					<a href="#"><img src="/assets/instagram.png" style="width: 50px;" /></a>&nbsp;
-					<a href="#"><img src="/assets/twitter.png" style="width: 50px;" /></a>&nbsp;
-					<a href="#"><img src="/assets/facebook.png" style="width: 50px;" /></a>
+					<a href="https://instagram.com/yofamousuk" target="_blank"><img src="/assets/instagram.png" style="width: 50px;" /></a>&nbsp;
+					<a href="https://twitter.com/YoFamousUK" target="_blank"><img src="/assets/twitter.png" style="width: 50px;" /></a>&nbsp;
+					<a href="#" style="width: 50px;" /></a> <br />
+					<div style="height: 20px;"></div>
+					<a href="mailto:yofamousuk@gmail.com"><b>EMAIL US NOW!<b></a>
 				</div>
 			</div>
 			<div style="height: 50px;"></div>
