@@ -367,11 +367,11 @@
 			<div class="row bottomFooter">
 				<div class="col-md-3"></div>
 				<div class="col-md-5">
-						<a href="#">Privacy Policy</a>&nbsp;&nbsp;&nbsp;
-						<a href="#">Terms & Condition</a>
+						<a href="#" style="font-weight: 400;">Privacy Policy</a>&nbsp;&nbsp;&nbsp;
+						<a href="#" style="font-weight: 400;">Terms & Condition</a>
 				</div>
 				<div class="col-md-4" style="text-align: right;">
-					<span>&copy; 2020 YoFamous HQ</span>
+					<span style="font-weight: 400;">&copy; 2020 YoFamous HQ</span>
 				</div>
 			</div>
 		</div>
