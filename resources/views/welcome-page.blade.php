@@ -638,7 +638,7 @@
 	      	<img src="/img/music.svg" style="width: 200px;" /> 
 	        
 	        <br /> <br />
-	        Click the <b style="font-weight: 600;">CHAT</b> icon at the bottom-right corner to start a conversation with us. We promised to work closely with our users to better understand their needs as we build our automated service for your convenience.
+	        Click the <b style="font-weight: 600;">CHAT</b> icon at the bottom-right corner to start a conversation with us. We promise to work closely with our users to better understand their needs as we build our automated service for your convenience.
 	        <br /> <br />
 	        Our response is instant and we cherish all our customers/visitors.
 	      </div>
