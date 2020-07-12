@@ -336,11 +336,11 @@
 			        </h4>
 			      </div>
 			      <div id="collapse2" class="panel-collapse collapse">
-			        <div class="panel-body">The best music promotion campaign is a campaign that takes everything into consideration. If your manager or publicist is only focused on one platform, it can backfire. Let’s say that you put all of your work into developing your Twitter strategy, only to find that your account is suspended for some reason. This is clearly a huge blow to your career, and you will have invested a lot of time and energy into a platform that you can no longer utilize.
+			        <div class="panel-body">The best music promotion campaign takes everything into consideration. If your manager or publicist is only focused on one platform, it can backfire. If all your energy is focused on developing a strong Twitter presence, and your account gets suspended for some reason, it will be a huge blow to your career, and you would have invested a lot of time and energy into a platform that you can no longer utilize.
 					<br />
-					YoFamous knows that it’s not just about the music or your image – it’s about all of it coming together to form a brand. Your music promotion campaign should include dropping loose songs on Soundcloud when you are trying to promote a new project, or Instagram clips of you in the studio making some new songs. It should also include Youtube uploads where you do Q and As with your fans, so that they can know more about you.
+					YoFamous knows that it’s not just about the music or your image – it’s about all of it coming together to form a brand. Your music promotion campaign should include dropping loose songs on all digital music streaming platforms when you are trying to promote a new project, or short clips of you in the studio making some new songs on your social media platforms. It should also include Youtube uploads where you do Q and As with your fans, so that they know more about you.
 					<br /> <br />
-					The best music promotion campaign is an extensive one, that includes uploading photos and clips to Instagram, songs to Soundcloud and Audiomack, and strategies to also increase your Apple Music and Spotify Music, followers. It’s about connecting with curators, landing on playlists, AND boosting views. Thanks to YoFamous, you don’t have to spend thousands and thousands of dollars to make your music promotion campaign effective.
+					The best music promotion campaign is an extensive one, that includes uploading photos and clips to social media, songs to Soundcloud and Audiomack, and strategies to also increase your Apple Music and Spotify Music, and followers. It’s about connecting with curators, landing on playlists, and boosting views. Thanks to YoFamous, you don’t have to spend thousands of dollars to make your music promotion campaign effective.
 					<br /> <br />
 					The best music promotion campaign also takes your personality into consideration. There might be some artists that love vlogging, while other artists might not like sitting in front of a camera and speaking to fans. Other artists might care more about showing footage of their tour or live performances more than anything else, and it might drive fans to see you on tour next time. It doesn’t matter whether you want to showcase your humor, personality, significant other, bandmates, or curator skills – a music promotion campaign takes your personality and image into consideration.</div>
 			      </div>
@@ -352,11 +352,11 @@
 			        </h4>
 			      </div>
 			      <div id="collapse3" class="panel-collapse collapse">
-			        <div class="panel-body">Many music promotion packages only focus on one aspect of promotion, and we believe that’s why YoFamous is so different. Our paid music promotion packages can not only give you more views. After all, there are thousands of companies that are selling fake bot views, and many customers end up disappointed down the line once they realize that it wasn’t worth the money. We don’t just offer more views for music promotion packages, we also offer much more!
+			        <div class="panel-body">Many music promotion packages only focus on one aspect of promotion, and we believe that’s why YoFamous is so different. Our paid music promotion packages can not only give you more views; after all, there are thousands of companies that are selling fake bot views, and some customers end up disappointed when they realize that it wasn’t worth the money. We don’t just offer more views for music promotion packages, we also offer much more:
 					<br /> <br />
-					Our paid music promotion packages are also about curation. The right playlist can truly make a real difference, and many music industry insiders believe that playlists are one of the most important aspects of a career right now. If your music ends up on a playlist with multi-platinum artists, then that means that you could potentially gain fans FROM them. In addition, if the song is good enough, it might mean that they end up following you on various platforms.
+					Our paid music promotion packages are also about curation. The right playlist can truly make a real difference, and many music industry insiders believe that playlists are one of the most important aspects of a career right now. If your song is good and ends up on a playlist with multi-platinum artists, then that means that you could potentially gain fans and followership from them.
 					<br /> <br />
-					The music promotion packages we offer might help you get more Instagram views, which can help when it comes to companies who reach out to you for endorsement. Our Soundcloud music promotion packages might also help you connect with more underrated artists and producers, and our Audiomack music promotion packages can help you get discovered by music fans that are focused on newer music.
+					The music promotion packages we offer might help you get more views and engagements on all social media platforms, which can help companies reach out to you for endorsement deals. Our music promotion packages will also help you connect with more undiscovered artists and producers, and connect you to fans that are focused on new music.
 					 <br /> <br />
 					Every artist should understand their goals and expectations from their music promotion packages, and figure out what platform makes the most sense for them. If your “image” isn’t as important as your music to you – you might focus on Spotify, Apple, Soundcloud, and Audiomack. However, you might have invested all of your resources into an upcoming music video. In this case, it might be better to purchase music promotion packages related to your Youtube channel.
 					<br /> <br />
@@ -371,16 +371,16 @@
 			        </h4>
 			      </div>
 			      <div id="collapse4" class="panel-collapse collapse in">
-			        <div class="panel-body">YoFamous has a lot of different packages to offer, and artists will have to figure out the option that makes the most sense for them. If you can afford to invest $100 in your music career without thinking twice about it, you might want to consider purchasing some of the more advanced music promotion packages. Of course, the best music promo is the promotion on the platform that you already understand.
+			        <div class="panel-body">YoFamous has a lot of different packages to offer, and artists will have to figure out the option that suits their needs. If you can afford to invest $100 in your music career without thinking twice about it, you might want to consider purchasing some of the more advanced music promotion packages. Of course, the best music promo is the promotion on the platform that you already understand.
 			        	<br /><br />
 
 					Some artists showcase their image the best on Instagram, while others might look to Soundcloud promotion or Audiomack promotion as a way to promote some underrated tracks. The best music promo package is the package that will lead to the most followers and fans. If you can, you might want to consider purchasing several packages and then figuring out what to target from there.
 					<br /><br />
 
-					The best music promo strategy is a strategy that incorporates as many different social media platforms as possible. If you are an artist or a content creator that doesn’t have the time to upload content, you also might want to consider purchasing the best music promo you can, but also consider hiring a social media manager in the future. Of course, if you are trying to promote a podcast – it might be best to target platforms like Spotify and/or Audiomack rather than Youtube (since the visual aspect might be less important, or even nonexistent).
+					The best music promo strategy is a strategy that incorporates as many different social media platforms as possible. If you are an artist or a content creator that doesn’t have the time to upload content, in addition to purchasing the best music promo you can, you may consider hiring a social media manager in the future. Of course, if you are trying to promote a podcast – it might be best to target platforms like Spotify and/or Audiomack rather than Youtube (since the visual aspect might be less important, or even nonexistent).
 					<br /><br />
 
-					The best music promo is a consistent music promotion, and you should allocate some of your funds to making sure that your content is properly promoted. Artists should also take the time to pay attention to all the details of marketing, whether it has to do with your bio, your Instagram caption, or responding to fans on Twitter. You may want to figure out your budget before figuring out the best music promo that YoFamous has to offer. Either way, you can count on us to make sure that results are delivered promptly.</div>
+					The best music promo is a consistent music promotion, and you should allocate some of your funds to making sure that your content is properly promoted. Artists should also take the time to pay attention to all the details of marketing, whether it has to do with your bio, your Instagram caption, or responding to fans on Twitter. You may want to figure out your budget before deciding the best music promo that YoFamous has to offer. Either way, you can count on us to make sure that results are delivered promptly.</div>
 			      </div>
 			    </div>
 
@@ -391,7 +391,7 @@
 			        </h4>
 			      </div>
 			      <div id="collapse4" class="panel-collapse collapse in">
-			        <div class="panel-body">There are plenty of music marketing companies out there, but YoFamous is definitely one of the best music marketing companies out there. We are extremely affordable, which is great for artists all over the world that are working very hard to build a following. While some of the other best music marketing companies are overcharging artists for publicity, we make it clear that there are different packages that cater to artists with specific budgets.
+			        <div class="panel-body">There are several music marketing companies out there, but YoFamous is definitely one of the best music marketing companies out there. We are extremely affordable, which is great for artists all over the world that are working very hard to build a following. While some of the other best music marketing companies are overcharging artists for publicity, we make it clear that there are different packages that cater to artists with specific budgets.
 			        	<br /> <br />
 
 					We also deliver on time, so you’ll never be waiting and wondering about your results. We believe that the best music marketing companies are the ones that actually deliver instead of having artists wait around for weeks, wondering what they did with their money. We also have free promotions regularly, because we are proud of the fact that we truly back up our claims.
@@ -628,18 +628,17 @@
 	  <div class="modal-dialog" role="document">
 	    <div class="modal-content">
 	      <div class="modal-header">
-	        <h5 class="modal-title" id="exampleModalLabel">Hello There,</h5>
+	        <h5 class="modal-title" id="exampleModalLabel"><!-- Hello There, --></h5>
 	        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 	          <span aria-hidden="true">&times;</span>
 	        </button>
 	      </div>
 	      <div class="modal-body">
-	        We are currently working on our automated service for your convenience.
-	        <br /> <br />
-	        Nonetheless, you can chat with our LIVE SALES person and the service you need would be delivered to you instantly.
+	      	<!-- <img src="/img/hey.svg" style="width: 200px;" />  -->
+	      	<img src="/img/music.svg" style="width: 200px;" /> 
 	        
 	        <br /> <br />
-	        Click the <b>CHAT</b> icon at the bottom-right corner of your phone to start a conversation with us.
+	        Click the <b>CHAT</b> icon at the bottom-right corner to start a conversation with us. We promised to work closely with our users to better understand their needs as we build our automated service for your convenience.
 	        <br /> <br />
 	        Our response is instant and we cherish all our customers/visitors.
 	      </div>

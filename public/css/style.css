@@ -126,6 +126,10 @@ body {
 	border-radius: 10px;
 }
 
+.serviceCard:hover {
+	cursor: pointer;
+}
+
 .priceAvatar {
 	min-width: 200px;
 	min-height: 200px;
