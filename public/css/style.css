@@ -28,6 +28,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
 	font-family: 'TT Commons', Arial, sans-serif;
 	/*font-family: 'Lato', sans-serif;*/
@@ -337,6 +341,18 @@ body {
 	outline: none !important;
 }
 
+.faqBtn {
+	color: #fff;
+	/*background-color: #1E3264;*/
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 40px;
+	border-radius: 50px;
+	outline: none !important;
+}
+
 
 
 
@@ -450,6 +466,12 @@ body {
 
 #chat-application {
 	z-index: 9999999999999 !important;
+}
+
+.panel-heading {
+	border-top: 2px solid grey;
+	padding-top: 10px;
+	margin-bottom: 20px;
 }
 
 
