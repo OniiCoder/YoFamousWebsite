@@ -6,8 +6,8 @@
 	<meta name="keywords" content="spotify plays, apple music plays, buy plays, buy streams, promote music, promote song, enter playlists, submit to playlist, buy spotify plays and streams, tidal, audiomack plays, soundcloud plays,">
 	<meta property="og:locale" content="en-US">
 	<meta property="og:type" content="website">
-	<meta name="description" content="Social Media and Music Promotions, boost your Spotify & Apple Music plays and earn royalties, Top Charts.">
-	<meta name="og:description" content="Social Media and Music Promotions, boost your Spotify & Apple Music plays and earn royalties, Top Charts.">
+	<meta name="description" content="Boost your music streams and social media hype.">
+	<meta name="og:description" content="Boost your music streams and social media hype.">
 
 	<link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
@@ -95,7 +95,7 @@
 	<section class="heroSection">
 		<div class="container">
 			<div class="content" data-aos="fade-up" data-aos-duration="2000">
-				<span class="heroText">Royal Artiste and Music Promotions on</span>
+				<span class="heroText">Boost your song plays on</span>
 				<h1 class="ml4 white">
 				  <span class="letters letters-1">Spotify</span>
 				  <span class="letters letters-2">Apple Music</span>
@@ -141,7 +141,7 @@
 				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
 					<div class="serviceCard">
 						<div class="priceAvatar">
-							<span>Starting from<br/><b>$5/1000</b> plays</span>
+							<span>Starting from<br/><b>$7/1000</b> plays</span>
 						</div>
 						<div class="content">
 							<div class="title">
@@ -159,7 +159,7 @@
 				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
 					<div class="serviceCard">
 						<div class="priceAvatar">
-							<span>Starting from<br/><b>$5/1000</b> plays</span>
+							<span>Starting from<br/><b>$9/1000</b> plays</span>
 						</div>
 						<div class="content">
 							<div class="title">
@@ -177,7 +177,7 @@
 				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
 					<div class="serviceCard">
 						<div class="priceAvatar">
-							<span>Starting from<br/><b>$5/1000</b> plays</span>
+							<span>Starting from<br/><b>$2/1000</b> plays</span>
 						</div>
 						<div class="content">
 							<div class="title">
@@ -195,7 +195,7 @@
 				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
 					<div class="serviceCard">
 						<div class="priceAvatar">
-							<span>Starting from<br/><b>$5/1000</b> plays</span>
+							<span>Starting from<br/><b>$12/1000</b> plays</span>
 						</div>
 						<div class="content">
 							<div class="title">
