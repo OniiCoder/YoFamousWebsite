@@ -120,7 +120,7 @@
 			<div class="promoteNowText">Promote Now</div>
 			<div class="space40"></div>
 			<div class="row">
-				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
+				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000" data-toggle="modal" data-target="#exampleModal">
 					<div class="serviceCard">
 						<div class="priceAvatar">
 							<span>Starting from<br/><b>$5/1000</b> plays</span>
@@ -138,7 +138,7 @@
 					</div>
 					<div style="height: 20px;"></div>
 				</div>
-				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
+				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000" data-toggle="modal" data-target="#exampleModal">
 					<div class="serviceCard">
 						<div class="priceAvatar">
 							<span>Starting from<br/><b>$7/1000</b> plays</span>
@@ -156,7 +156,7 @@
 					</div>
 					<div style="height: 20px;"></div>
 				</div>
-				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
+				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000" data-toggle="modal" data-target="#exampleModal">
 					<div class="serviceCard">
 						<div class="priceAvatar">
 							<span>Starting from<br/><b>$9/1000</b> plays</span>
@@ -174,7 +174,7 @@
 					</div>
 					<div style="height: 20px;"></div>
 				</div>
-				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
+				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000" data-toggle="modal" data-target="#exampleModal">
 					<div class="serviceCard">
 						<div class="priceAvatar">
 							<span>Starting from<br/><b>$2/1000</b> plays</span>
@@ -192,7 +192,7 @@
 					</div>
 					<div style="height: 40px;"></div>
 				</div>
-				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
+				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000" data-toggle="modal" data-target="#exampleModal">
 					<div class="serviceCard">
 						<div class="priceAvatar">
 							<span>Starting from<br/><b>$12/1000</b> plays</span>
@@ -210,7 +210,7 @@
 					</div>
 					<div style="height: 40px;"></div>
 				</div>
-				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000">
+				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000" data-toggle="modal" data-target="#exampleModal">
 					<div class="moreServiceCard">
 						<div class="content">
 							<a href="#" class="more">
@@ -309,7 +309,10 @@
 				</div>
 			</div>
 		</div>
+
+
 	</section>
+
 	<a name="faq"></a>
 	<section>
 		<div class="container">
@@ -620,6 +623,34 @@
 		</div>
 	</section>
 
+	<!-- Modal -->
+	<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+	  <div class="modal-dialog" role="document">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <h5 class="modal-title" id="exampleModalLabel">Hello There,</h5>
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+	          <span aria-hidden="true">&times;</span>
+	        </button>
+	      </div>
+	      <div class="modal-body">
+	        We are currently working on our automated service for your convenience.
+	        <br /> <br />
+	        Nonetheless, you can chat with our LIVE SALES person and the service you need would be delivered to you instantly.
+	        
+	        <br /> <br />
+	        Click the <b>CHAT</b> icon at the bottom-right corner of your phone to start a conversation with us.
+	        <br /> <br />
+	        Our response is instant and we cherish all our customers/visitors.
+	      </div>
+	      <!-- <div class="modal-footer">
+	        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+	        <button type="button" class="btn btn-primary">Save changes</button>
+	      </div> -->
+	    </div>
+	  </div>
+	</div>
+
 
 
 
@@ -627,11 +658,31 @@
 
 </div>
 
+<div id="myModal" class="modal fade" role="dialog">
+	  <div class="modal-dialog">
+	    <!-- Modal content-->
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal">&times;</button>
+	        <h4 class="modal-title">Modal Header</h4>
+	      </div>
+	      <div class="modal-body">
+	        <p>Some text in the modal.</p>
+	      </div>
+	      <div class="modal-footer">
+	        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+	      </div>
+	    </div>
+
+	  </div>
+	</div>
+
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 
 <script>
+
 	setInterval(function(){ $(".custom-social-proof").stop().slideToggle('slow'); }, 3000);
 	  $(".custom-close").click(function() {
 	    $(".custom-social-proof").stop().slideToggle('slow');
@@ -640,6 +691,8 @@
 
 <script>
 	AOS.init();
+
+
 
 	var ml4 = {};
 	ml4.opacityIn = [0,1];

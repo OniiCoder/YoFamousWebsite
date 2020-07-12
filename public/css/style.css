@@ -474,5 +474,8 @@ body {
 	margin-bottom: 20px;
 }
 
+.modal-body {
+	font-weight: normal;
+}
 
 
