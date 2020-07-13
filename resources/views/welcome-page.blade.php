@@ -638,7 +638,7 @@
 	      	<img src="/img/music.svg" style="width: 200px;" /> 
 
 	      	<br /> <br />
-	      	Proceed with your order via our LIVE CHAT, <a href="https://twitter.com/YoFamousUK" target="_blank">TWITTER</a> or <a href="https://instagram.com/yofamousuk" target="_blank">INSTAGRAM</a>.
+	      	Proceed with your order via our LIVE CHAT, <a href="https://twitter.com/YoFamousUK" target="_blank">TWITTER</a> or <a href="https://instagram.com/yofamousuk" target="_blank">INSTAGRAM</a>
 
 	      	<br /> <br />
 	        Responses will be prompt!
