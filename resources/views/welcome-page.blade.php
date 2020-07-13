@@ -636,11 +636,16 @@
 	      <div class="modal-body">
 	      	<!-- <img src="/img/hey.svg" style="width: 200px;" />  -->
 	      	<img src="/img/music.svg" style="width: 200px;" /> 
+
+	      	<br /> <br />
+	      	Proceed with your order via our LIVE CHAT, <a href="https://twitter.com/YoFamousUK" target="_blank">TWITTER</a> or <a href="https://instagram.com/yofamousuk" target="_blank">INSTAGRAM</a>
+
+	      	<br /> <br />
+	        Responses will be prompt!
 	        
 	        <br /> <br />
-	        Click the <b style="font-weight: 600;">CHAT</b> icon at the bottom-right corner to start a conversation with us. We promise to work closely with you to have a better understanding of your needs as we build our automated service for your convenience.
-	        <br /> <br />
-	        Responses will be prompt!
+	        We promise to work closely with you to have a better understanding of your needs as we build our automated service for your convenience.
+	        
 	      </div>
 	      <!-- <div class="modal-footer">
 	        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
