@@ -118,6 +118,7 @@
 		<div class="container">
 			<div class="space40"></div>
 			<div class="promoteNowText">Promote Now</div>
+			<div style="text-align: center; color: red; font-weight: 600;">Minimum order is 5,000 streams</div>
 			<div class="space40"></div>
 			<div class="row">
 				<div class="col-md-4 sCard" data-aos="fade-up" data-aos-duration="2000" data-toggle="modal" data-target="#exampleModal">
