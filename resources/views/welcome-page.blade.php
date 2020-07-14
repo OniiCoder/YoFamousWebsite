@@ -230,7 +230,7 @@
 		<div class="container">
 			<div class="row justify-content-center" data-aos="fade-up" data-aos-duration="3000">
 				<div class="col-md-6" style="text-align: center;">
-					<p style="text-align: center; margin-top: 20px; font-size: 17px; font-family: 'Inter', sans-serif;">If you published your music on any digital music streaming platform but aren’t getting the attention you deserve, we can help. We provide campaigns to get followers, increase plays and improve your brand awareness. Our promotion services are being used by artists around the world. Buy real plays and boost your social media naturally with one of the most trusted promotion companies in the industry.</p>
+					<p style="text-align: center; margin-top: 20px; font-size: 17px; font-family: 'Inter', sans-serif;">If you published your music on any digital music streaming platform but aren’t getting the attention you deserve, we can help. We provide campaigns to get followers, increase plays and improve your brand awareness. Our promotion services are being used by artists around the world. Buy real plays to boost your music and social media engagements naturally (with your success stories) with one of the most trusted promotion companies in the industry.</p>
 
 					<a href="#faq"><button type="button" class="btn btn-success faqBtn">SEE FAQs</button></a>
 				</div>
